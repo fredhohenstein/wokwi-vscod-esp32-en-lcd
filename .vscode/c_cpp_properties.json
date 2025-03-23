@@ -8,10 +8,10 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/D-Disk/_Data/Bestanden/qsync_QNAP5045MR2/DevOps/_dev_wokwi/_esp32/test/include",
-                "C:/D-Disk/_Data/Bestanden/qsync_QNAP5045MR2/DevOps/_dev_wokwi/_esp32/test/src",
+                "C:/D-Disk/_Data/Bestanden/qsync_QNAP5045MR2/DevOps/_dev_wokwi/wokwi-vscod-esp32-en-lcd/include",
+                "C:/D-Disk/_Data/Bestanden/qsync_QNAP5045MR2/DevOps/_dev_wokwi/wokwi-vscod-esp32-en-lcd/src",
                 "C:/Users/fredh/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
-                "C:/D-Disk/_Data/Bestanden/qsync_QNAP5045MR2/DevOps/_dev_wokwi/_esp32/test/.pio/libdeps/esp32doit-devkit-v1/LiquidCrystal_I2C",
+                "C:/D-Disk/_Data/Bestanden/qsync_QNAP5045MR2/DevOps/_dev_wokwi/wokwi-vscod-esp32-en-lcd/.pio/libdeps/esp32doit-devkit-v1/LiquidCrystal_I2C",
                 "C:/Users/fredh/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                 "C:/Users/fredh/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/fredh/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
@@ -239,10 +239,10 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/D-Disk/_Data/Bestanden/qsync_QNAP5045MR2/DevOps/_dev_wokwi/_esp32/test/include",
-                    "C:/D-Disk/_Data/Bestanden/qsync_QNAP5045MR2/DevOps/_dev_wokwi/_esp32/test/src",
+                    "C:/D-Disk/_Data/Bestanden/qsync_QNAP5045MR2/DevOps/_dev_wokwi/wokwi-vscod-esp32-en-lcd/include",
+                    "C:/D-Disk/_Data/Bestanden/qsync_QNAP5045MR2/DevOps/_dev_wokwi/wokwi-vscod-esp32-en-lcd/src",
                     "C:/Users/fredh/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
-                    "C:/D-Disk/_Data/Bestanden/qsync_QNAP5045MR2/DevOps/_dev_wokwi/_esp32/test/.pio/libdeps/esp32doit-devkit-v1/LiquidCrystal_I2C",
+                    "C:/D-Disk/_Data/Bestanden/qsync_QNAP5045MR2/DevOps/_dev_wokwi/wokwi-vscod-esp32-en-lcd/.pio/libdeps/esp32doit-devkit-v1/LiquidCrystal_I2C",
                     "C:/Users/fredh/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                     "C:/Users/fredh/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/fredh/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",

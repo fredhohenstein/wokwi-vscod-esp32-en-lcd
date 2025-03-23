@@ -73,6 +73,8 @@ void setup() {
   configTime(UTC_OFFSET, UTC_OFFSET_DST, NTP_SERVER);
   pinMode(12,OUTPUT);
 
+  Serial.println("..");
+  Serial.println("Setup loop completed");
 }
 
 void loop() {
